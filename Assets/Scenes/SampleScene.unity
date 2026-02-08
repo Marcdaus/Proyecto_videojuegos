@@ -802,6 +802,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 80
   m_CollisionDetection: 0
+  vel: 3
 --- !u!1001 &2954675822403680399
 PrefabInstance:
   m_ObjectHideFlags: 0
