@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mvmsu\\Desktop\\Gandia-Game-Jam\\Prueba\\Proyecto_videojuegos\\",
+  "WorkspaceRootPath": "C:\\Users\\Minerva\\Documents\\Prueba\\Proyecto_videojuegos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mvmsu\\Desktop\\Gandia-Game-Jam\\Prueba\\Proyecto_videojuegos\\Assets\\Scenes\\Scripts\\AgarrarObjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\Scripts\\AgarrarObjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mvmsu\\Desktop\\Gandia-Game-Jam\\Prueba\\Proyecto_videojuegos\\Assets\\Scenes\\Scripts\\Personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\Scripts\\Personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mvmsu\\Desktop\\Gandia-Game-Jam\\Prueba\\Proyecto_videojuegos\\Assets\\Scenes\\Personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scenes\\Personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F8C2E4A-0B32-591B-26DF-149DE2893A41}|Assembly-CSharp.csproj|c:\\users\\minerva\\documents\\prueba\\proyecto_videojuegos\\assets\\scenes\\scripts\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8C2E4A-0B32-591B-26DF-149DE2893A41}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Personaje.cs",
-              "DocumentMoniker": "C:\\Users\\mvmsu\\Desktop\\Gandia-Game-Jam\\Prueba\\Proyecto_videojuegos\\Assets\\Scenes\\Scripts\\Personaje.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\Personaje.cs",
-              "ToolTip": "C:\\Users\\mvmsu\\Desktop\\Gandia-Game-Jam\\Prueba\\Proyecto_videojuegos\\Assets\\Scenes\\Scripts\\Personaje.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Scripts\\Personaje.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T22:15:00.899Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AgarrarObjeto.cs",
-              "DocumentMoniker": "C:\\Users\\mvmsu\\Desktop\\Gandia-Game-Jam\\Prueba\\Proyecto_videojuegos\\Assets\\Scenes\\Scripts\\AgarrarObjeto.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\AgarrarObjeto.cs",
-              "ToolTip": "C:\\Users\\mvmsu\\Desktop\\Gandia-Game-Jam\\Prueba\\Proyecto_videojuegos\\Assets\\Scenes\\Scripts\\AgarrarObjeto.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Scripts\\AgarrarObjeto.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAswFMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T21:41:21.937Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Personaje.cs",
-              "DocumentMoniker": "C:\\Users\\mvmsu\\Desktop\\Gandia-Game-Jam\\Prueba\\Proyecto_videojuegos\\Assets\\Scenes\\Personaje.cs",
-              "RelativeDocumentMoniker": "Assets\\Scenes\\Personaje.cs",
-              "ToolTip": "C:\\Users\\mvmsu\\Desktop\\Gandia-Game-Jam\\Prueba\\Proyecto_videojuegos\\Assets\\Scenes\\Personaje.cs",
-              "RelativeToolTip": "Assets\\Scenes\\Personaje.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Minerva\\Documents\\Prueba\\Proyecto_videojuegos\\Assets\\Scenes\\Scripts\\Personaje.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\Personaje.cs",
+              "ToolTip": "C:\\Users\\Minerva\\Documents\\Prueba\\Proyecto_videojuegos\\Assets\\Scenes\\Scripts\\Personaje.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\Personaje.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T20:43:51.8Z"
+              "WhenOpened": "2026-02-08T21:40:56.838Z",
+              "EditorCaption": ""
             }
           ]
         }
