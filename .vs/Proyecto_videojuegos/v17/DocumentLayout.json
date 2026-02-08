@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Minerva\\Documents\\Prueba\\Proyecto_videojuegos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F8C2E4A-0B32-591B-26DF-149DE2893A41}|Assembly-CSharp.csproj|c:\\users\\minerva\\documents\\prueba\\proyecto_videojuegos\\assets\\scenes\\scripts\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F8C2E4A-0B32-591B-26DF-149DE2893A41}|Assembly-CSharp.csproj|solutionrelative:assets\\scenes\\scripts\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Personaje.cs",
+              "DocumentMoniker": "C:\\Users\\Minerva\\Documents\\Prueba\\Proyecto_videojuegos\\Assets\\Scenes\\Scripts\\Personaje.cs",
+              "RelativeDocumentMoniker": "Assets\\Scenes\\Scripts\\Personaje.cs",
+              "ToolTip": "C:\\Users\\Minerva\\Documents\\Prueba\\Proyecto_videojuegos\\Assets\\Scenes\\Scripts\\Personaje.cs",
+              "RelativeToolTip": "Assets\\Scenes\\Scripts\\Personaje.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:40:56.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
